@@ -12,7 +12,6 @@ checkpoints
 dist
 HiCT_venv
 .eggs
-*.pt
 /results
 /weights
 .Rproj.user
